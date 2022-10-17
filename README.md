@@ -30,5 +30,10 @@
 
 
 For more examples:<br>
-<a href="https://github.com/d3/d3-force">https://github.com/d3/d3-force</a>
-<a href=https://observablehq.com/@d3/force-directed-graph?collection=@d3/charts>https://observablehq.com/@d3/force-directed-graph?collection=@d3/charts</a>
+<a href="https://github.com/d3/d3-force">
+https://github.com/d3/d3-force
+</a>
+<br>
+<a href="https://observablehq.com/@d3/force-directed-graph?collection=@d3/charts">
+https://observablehq.com/@d3/force-directed-graph?collection=@d3/charts
+</a>
