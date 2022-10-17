@@ -17,13 +17,12 @@
     3. collide: d3.forceCollide()
 4. Example 8.4: Applying strength and distance
 5. Example 8.5: Applying zoom interaction
-6. Example 8.6: Styling and adding marks
-7. Example 8.6: Pan and Zoom
-8. Example 8.7: Grouping and Mouse interaction (hide and show groups)
+6. Example 8.6: Pan and Zoom
+7. Example 8.7: Grouping and Mouse interaction (hide and show groups)
 
 <img src="img/Exampl_8.7.gif" width="400px">
 
-9. Example 8.8:
+8. Example 8.8:
    1. Matrix View of the Migration between U.S. States
    2. User Interaction  
 
