@@ -29,4 +29,6 @@
 <img src="img/Example_8.8.gif" width="400px">
 
 
-For more examples:   https://github.com/d3/d3-force
+For more examples:<br>
+<a href=https://github.com/d3/d3-force>https://github.com/d3/d3-force</a>
+<a href=https://observablehq.com/@d3/force-directed-graph?collection=@d3/charts>https://observablehq.com/@d3/force-directed-graph?collection=@d3/charts</a>
