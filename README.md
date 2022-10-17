@@ -21,7 +21,7 @@
 7. Example 8.6: Pan and Zoom
 8. Example 8.7: Grouping and Mouse interaction (hide and show groups)
 
-<img src="img/Example_8.7.gif" width="400px">
+<img src="img/Exampl_8.7.gif" width="400px">
 
 9. Example 8.8:
    1. Matrix View of the Migration between U.S. States
