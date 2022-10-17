@@ -1,4 +1,4 @@
-# Week-7-ForceLayout
+# Week-8 Network Visualization and ForceLayout
 ### forceSimulation Examples
 
  1. Example 8.1: Sample data using d3.range() function
