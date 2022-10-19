@@ -29,5 +29,8 @@
 
 <img src="img/Example_8.8.gif" width="400px">
 
+<b>Great Source to test each one of the forces in d3 forceSimulation
+<a href="https://bl.ocks.org/steveharoz/8c3e2524079a8c440df60c1ab72b5d03">d3-force testing ground</a>
 
-For more examples:   https://github.com/d3/d3-force
+For more examples:   https://github.com/d3/d3-force <br>
+https://observablehq.com/@ben-tanen/a-tutorial-to-using-d3-force-from-someone-who-just-learned-ho
