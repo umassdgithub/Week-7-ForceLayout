@@ -1,9 +1,12 @@
 const nodeNumber = 300;
 
 const nodes = d3.range(nodeNumber).map( (d) =>d%2===0?({type: "a", color:"steelblue", inDegree:0}):({type: "b", color:"red",inDegree:0}))
+// Making power law distribution matrix
 const powerLawRandom = d3.randomExponential(2)
 let links =d3.range(nodeNumber).map(()=>[powerLawRandom(),powerLawRandom()])
-const scaler = d3.scaleLinear().domain(d3.extent(links.flat())).rangeRound([0,nodeNumber-1])
+const scaler = d3.scaleLinear()
+    .domain(d3.extent(links.flat()))
+    .rangeRound([0,nodeNumber-1])
 
 
 
@@ -46,7 +49,8 @@ const nodeElements = svg.selectAll('.nodes')
     .append('circle').attr("r",d=>degreeScale(d.inDegree))
     .attr("stroke",d=>d.color)
     .attr("stroke-width","2")
-    .attr("fill","white")
+    .attr("fill",d=>d.color)
+    .attr("fill-opacity",.3)
 
 
 
