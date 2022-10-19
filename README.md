@@ -40,3 +40,5 @@ https://github.com/d3/d3-force
 <a href="https://observablehq.com/@d3/force-directed-graph?collection=@d3/charts">
 https://observablehq.com/@d3/force-directed-graph?collection=@d3/charts
 </a>
+<br>
+https://www.d3indepth.com/force-layout/
