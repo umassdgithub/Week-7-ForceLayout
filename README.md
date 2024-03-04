@@ -1,24 +1,24 @@
-# Week-8 Network Visualization and ForceLayout
+# Week-7 Network Visualization and ForceLayout
 ### forceSimulation Examples
 
- 1. Example 8.1: Sample data using d3.range() function
+ 1. Example 7.1: Sample data using d3.range() function
     1. x: d3.forceX()
     2. y: d3.forceY()
     3. collide: d3.forceCollide()
     
- 2. Example 8.2: Nodes and Links in Strongly Connected Network 
+ 2. Example 7.2: Nodes and Links in Strongly Connected Network 
     1. link: d3.forceLink()
     2. charge: d3.forceManyBody()
     3. collide: d3.forceCollide()
     
- 3. Example 8.3: Making a function to load network using
+ 3. Example 7.3: Making a function to load network using
     1. link: d3.forceLink()
     2. charge: d3.forceManyBody()
     3. collide: d3.forceCollide()
-4. Example 8.4: Applying strength and distance
-5. Example 8.5: Applying zoom interaction
-6. Example 8.6: Pan and Zoom
-7. Example 8.7: Grouping and Mouse interaction (hide and show groups)
+4. Example 7.4: Applying strength and distance
+5. Example 7.5: Applying zoom interaction
+6. Example 7.6: Pan and Zoom
+7. Example 7.7: Grouping and Mouse interaction (hide and show groups)
 
 <img src="img/Exampl_8.7.gif" width="400px">
 
