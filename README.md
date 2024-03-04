@@ -1,5 +1,28 @@
 # Week-7 Network Visualization and ForceLayout
+
+### Data Processing with NetworkX
+NetworkX is a Python Library which provides a wide verity of tools for conversion of the data into
+networks, manipulation, analysis or overview of them.
+
+Here is a Colab link which in few quick steps shows, how you can convert a Pandas Dataframe 
+into a networkX object, and then export it to a json file, so that you can load it using 
+D3JS: 
+<a href="https://colab.research.google.com/drive/11MWCWy1dcYUAE4nqZUxPGLKyaVtoNDlM">Colab Python Code</a>
+
+
 ### forceSimulation Examples
+
+#### Step by Step forceSimulation
+Check the examples in the step by step forceSimulation for the explanation and use each one of the forceLayout components.
+- Step 1: Tick counter
+- Step 2: Collide force
+- Step 3: Center
+- Step 4: forceX and forceY
+- Step 5: Manybody
+- Step 6: Links
+- Distribution Generator
+
+#### Examples
 
  1. Example 7.1: Sample data using d3.range() function
     1. x: d3.forceX()
@@ -22,7 +45,7 @@
 
 <img src="img/Exampl_8.7.gif" width="400px">
 
-8. Example 8.8:
+8. Example 7.8:
    1. Matrix View of the Migration between U.S. States
    2. User Interaction  
 
